@@ -4,7 +4,7 @@ WTScan is a comprehensive data application that analyzes global wind speeds and 
 ![WTScan Wind Turbine Analytics]
 
 ## Screenshot
-![(screenshot)](./screenshot.png?raw=true)
+![(screenshot)](./Screenshot.png?raw=true)
 
 ## How to run this app
 ```
