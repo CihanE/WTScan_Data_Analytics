@@ -284,8 +284,6 @@ def main():
     #Dictionaries
     with open('WData/power_curve.pkl', 'rb') as file:
         power_curve_dict = pickle.load(file)
-    with open('WData/all_country_ws.pkl', 'rb') as file:
-        country_ws_dict = pickle.load(file)
 
     st.subheader("Wind Parameters", divider= "blue")
     #####Display Map#####
