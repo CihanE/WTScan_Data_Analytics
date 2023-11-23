@@ -1,7 +1,7 @@
 # WTScan_Data_Analytics
 WTScan is a comprehensive data application that analyzes global wind speeds and wind turbine energy production levels.
 ## Demo
-![WTScan Wind Turbine Analytics](https://wtscandataanalytics.streamlit.app)
+[![WTScan Wind Turbine Analytics](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wtscandataanalytics.streamlit.app/)
 
 ## Screenshot
 ![(screenshot)](./Screenshot.png?raw=true)
