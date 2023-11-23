@@ -14,3 +14,4 @@ streamlit run WTScan_Analytics.py
 
 ## Author
 Cihan Erturk 
+([Linkedin](https://www.linkedin.com/in/cihanerturk/))
