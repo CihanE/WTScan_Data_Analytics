@@ -15,7 +15,7 @@ page_title = "WTScan Wind Turbine Analytics"
 head = ":cyclone: WTScan"
 main_title = ":blue[Global Wind Turbine Analytics App]"
 author = "**Cihan Erturk , Data Scientist / Senior R&D Engineer**"
-intro = "WTScan is a comprehensive data application that analyzes global wind speeds and wind turbine energy production levels. The app uses empirical Weibull wind models to forecast annual energy generation and capacity factors. It also provides information on the wind turbines with the highest energy yields for various regions of the world. With WTScan, you can easily access and analyze data on wind energy production and make informed decisions."
+intro = "WTScan is a comprehensive data application that analyzes global wind speeds and forecasts wind turbine energy production levels. The app uses empirical Weibull wind models to forecast annual energy generation and capacity factors. It also provides information on the wind turbines with the highest energy yields for various regions of the world. With WTScan, you can easily access and analyze data on wind energy production and make informed decisions."
 
 def display_map(df):
     '''
